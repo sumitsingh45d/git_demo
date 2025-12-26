@@ -1,3 +1,3 @@
 # git_demo
-this is my first git repository.
-author- sumit singh
+This is my first Git Repository.
+Author- Sumit singh
